@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\bin\Debug\Laba 3_Framework(WinForms).exe.config
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\bin\Debug\Laba 3_Framework(WinForms).exe
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\bin\Debug\Laba 3_Framework(WinForms).pdb
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba_3_Framework_WinForms_.Form1.resources
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba_3_Framework_WinForms_.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).exe
+C:\Users\Пользователь\source\repos\Laba 3_Framework(WinForms)\Laba 3_Framework(WinForms)\obj\Debug\Laba 3_Framework(WinForms).pdb

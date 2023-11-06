@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\bin\Debug\Laba2_Framework.exe.config
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\bin\Debug\Laba2_Framework.exe
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\bin\Debug\Laba2_Framework.pdb
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.exe
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.pdb
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.Form1.resources
+C:\Users\Пользователь\source\repos\Laba2_Framework\Laba2_Framework\obj\Debug\Laba2_Framework.Task1.resources
