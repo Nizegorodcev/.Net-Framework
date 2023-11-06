@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\bin\Debug\Laba 5 Net_Framework.exe.config
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\bin\Debug\Laba 5 Net_Framework.exe
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\bin\Debug\Laba 5 Net_Framework.pdb
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\obj\Debug\Laba 5 Net_Framework.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\obj\Debug\Laba 5 Net_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\obj\Debug\Laba 5 Net_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\obj\Debug\Laba 5 Net_Framework.exe
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework\Laba 5 Net_Framework\obj\Debug\Laba 5 Net_Framework.pdb

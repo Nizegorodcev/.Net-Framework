@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba_6_Net.Framework_Winforms_.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\bin\Debug\Laba 6_Net.Framework(Winforms).exe.config
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\bin\Debug\Laba 6_Net.Framework(Winforms).exe
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\bin\Debug\Laba 6_Net.Framework(Winforms).pdb
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).exe
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba 6_Net.Framework(Winforms).pdb
+C:\Users\Пользователь\source\repos\Laba 6_Net.Framework(Winforms)\Laba 6_Net.Framework(Winforms)\obj\Debug\Laba_6_Net.Framework_Winforms_.Form1.resources

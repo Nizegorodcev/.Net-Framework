@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\bin\Debug\Laba 5 Net_Framework(Wonforms).exe.config
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\bin\Debug\Laba 5 Net_Framework(Wonforms).exe
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\bin\Debug\Laba 5 Net_Framework(Wonforms).pdb
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba_5_Net_Framework_Wonforms_.Form1.resources
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba_5_Net_Framework_Wonforms_.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).exe
+C:\Users\Пользователь\source\repos\Laba 5 Net_Framework(Wonforms)\Laba 5 Net_Framework(Wonforms)\obj\Debug\Laba 5 Net_Framework(Wonforms).pdb
